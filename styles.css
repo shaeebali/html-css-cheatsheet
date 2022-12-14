@@ -10,6 +10,7 @@ h1 {
   margin: 50px;
   margin-left: 125px;
   margin-right: 125px;
+  padding: 50px;
   background-color: crimson;
   font-family: monospace;
 }
@@ -30,6 +31,7 @@ th {
   font-size: 30px;
   text-align: center;
   background-color: chocolate;
+  padding: 50px;
 }
 
 tr, td {
@@ -40,10 +42,17 @@ tr, td {
 td {
   font-weight: lighter;
   background-color: khaki;
-  color: ;
+  
 }
 
 .description {
   margin-left: 500px;
   margin-right: 500px;
+}
+
+tfoot td {
+  font-size: 30px;
+  text-align: center;
+  background-color: chocolate;
+  padding: 50px;
 }
