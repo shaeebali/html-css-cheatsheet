@@ -1,4 +1,15 @@
 * {
   box-sizing: border-box;
   margin: 0 auto;
+  padding: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+}
+
+
