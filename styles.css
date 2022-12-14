@@ -56,3 +56,14 @@ tfoot td {
   background-color: chocolate;
   padding: 50px;
 }
+
+footer {
+  text-align: center;
+  font-size: 20px;
+  margin: 50px;
+  margin-left: 125px;
+  margin-right: 125px;
+  padding: 20px;
+  background-color:darkgrey;
+  font-family: monospace;
+}
